@@ -1,0 +1,5 @@
+name "dockerfile-dlang"
+description "Wrapper to parse Dockerfile from D"
+authors "Laeeth Isharc"
+copyright "Copyright © 2019, Laeeth Isharc"
+license "Boost"
